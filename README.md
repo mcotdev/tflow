@@ -1,2 +1,2 @@
 # tflow
-Notation fr MTPE
+Notation for MTPE
